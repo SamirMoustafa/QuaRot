@@ -2,7 +2,6 @@ import argparse
 import gc
 import pprint
 import numpy as np
-import torch
 import time
 
 from e2e.quantized_llama import modeling_llama

@@ -1,7 +1,5 @@
-import math
 import torch
 import quarot
-import fast_hadamard_transform
 
 
 class ShapeHandler:
